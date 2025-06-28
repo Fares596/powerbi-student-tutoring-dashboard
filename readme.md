@@ -54,11 +54,19 @@ All datasets were accessed directly via raw GitHub URLs:
 - GitHub for dataset access
 
 ---
+## 🖼️ Dashboard Preview
 
+![Dashboard first page](./assets/dashboard_preview.png)
+
+![Dashboard first page](./assets/search_bar_output.png)
+
+![Dashboard first page](./assets/second_page_dashboard.png)
+
+
+---
 ## 📁 Author
 
 Fares – Master’s student in Mathematics & Statistical Learning, Université Paris-Saclay  
 > GitHub: [github.com/Fares596](https://github.com/Fares596)
 
 ---
-
